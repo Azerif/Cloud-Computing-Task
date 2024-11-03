@@ -15,6 +15,9 @@ This repository contains a project aimed at deploying threads using web hosting,
 - **Docker**: For containerizing the application and simplifying the deployment process.
 - **HTML/CSS**: For developing the frontend user interface.
 
+## Web Preview
+https://gross-wandie-azrianrif-51c43580.koyeb.app/
+
 ## Getting Started
 
 ### Prerequisites
