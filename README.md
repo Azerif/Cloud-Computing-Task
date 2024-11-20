@@ -16,7 +16,9 @@ This repository contains a project aimed at deploying threads using web hosting,
 - **HTML/CSS**: For developing the frontend user interface.
 
 ## Web Preview
+this url is no longer working because the service has been deleted.
 https://gross-wandie-azrianrif-51c43580.koyeb.app/
+
 
 ## Getting Started
 
