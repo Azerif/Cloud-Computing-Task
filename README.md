@@ -30,3 +30,8 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/Azerif/Cloud-Computing-Task.git
    cd Cloud-Computing-Task
+   ```
+2. Start the server using node js:
+   ```bash
+   node app.js
+   ```
